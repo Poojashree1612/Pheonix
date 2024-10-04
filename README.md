@@ -4,7 +4,7 @@ to check the jenkins pipeline trigger
 creating the git repository --> triggering jenkins --> timing the build 
 experiencing git push , pull , commit , merge conflits 
 
-Pre-REQUISTES :
+PRE-REQUSITES (trigger):
 
   1.Mingw ,gcc :Get Started with C++ and MinGW-w64 in Visual Studio Code
   2.Github desktop 
