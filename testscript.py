@@ -1,9 +1,7 @@
 # this is a test commit 
-def add(a,b):
-    return a+b
-    print("the value of sum of the numbers ",a+b)
-    
+print ("the two values are entered ")
+a=25
+b=96
 
-def test_add():
-    assert add(1,2)==3
-    assert add(1,-1)==0
+c=a+b
+print (" the value of the sum of two Numbers are",c)
